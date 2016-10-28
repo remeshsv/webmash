@@ -1,0 +1,23 @@
+#out{
+	position :absolute;
+	top : 100px;
+	left : 700px;
+}
+
+body{
+	background-image: url('http://cityhotelli.com/files/2016/08/BBBBBBBBBBB.jpg');
+}
+
+h1{
+	color: aqua;
+}
+
+button{
+	border-radius: 10px;
+	width: 100px;
+	height: 50px;
+}
+
+button:hover{
+	background-color : #CAC9C9;
+}
